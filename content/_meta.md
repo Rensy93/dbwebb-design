@@ -4,5 +4,5 @@ Tagline: I'm not a bloody web developer!
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/Rensy93/dbwebb-design
-      icon: github
+      icon: fab fa-github
 ---
